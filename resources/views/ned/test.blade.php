@@ -1,0 +1,10 @@
+@extends('master')
+@section('test')
+      <ul>
+        <li>TESTING</li>
+        <li>TESTING</li>
+        <li>TESTING</li>
+        <li>TESTING</li>
+        <li>TESTING</li>
+      </ul>
+@endsection
